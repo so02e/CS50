@@ -1,2 +1,4 @@
-# 네이버 커넥트 재단 부스트캠프에서 진행하는 CS50 코칭스터디 2기를 통해 배운 것을 정리하는 공간
+# CS50 ( NAVER boostcourse )
+> This is a space that summarizes what I learned from CS50 that is an on-campus and online introductory course on Computer Science taught at Havard University.
 
+ ꒰◍ˊ◡ˋ꒱੭⁾⁾ 
