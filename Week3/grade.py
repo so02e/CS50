@@ -10,7 +10,7 @@ print(keyList)
 print(values)
 
 def calgrade(score):
-    for i in range(0, 8):
+    for i in range(0, 9):
         if score >= values[i] :
             return(keyList[i])
         else:
